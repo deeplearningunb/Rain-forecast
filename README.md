@@ -6,6 +6,7 @@
 | Nome               | Matrícula  | GitHub             |
 |--------------------|------------|--------------------|
 |João Pedro de Aquino Corrêa Martins | 16/046602  |    @jpmartins201  |
+|Arthur Borges Bringel Machado       | 16/0113032 |    @arthurbbm     |
 
 ## O Projeto
 
