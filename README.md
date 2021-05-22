@@ -7,6 +7,8 @@
 |--------------------|------------|--------------------|
 |João Pedro de Aquino Corrêa Martins | 16/046602  |    @jpmartins201  |
 |Arthur Borges Bringel Machado       | 16/0113032 |    @arthurbbm     |
+| Mateus Oliveira Patrício | 16/0015006 | @omateusp |
+| Thais Rebouças de Araújo | 18/0078224 | @thais-ra |
 
 ## O Projeto
 
