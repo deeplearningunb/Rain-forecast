@@ -21,3 +21,9 @@ Foi escolhida para o treinamento dos dados de entrada uma camada com a rede neur
 ## Dataset
 
 O dataset se encontra disponível neste [link](https://drive.google.com/drive/folders/1xyxumSFZanE45D1DrVHcmUD5lT-GmhNO?usp=sharing)
+
+## References
+
+- [link](https://www.kaggle.com/fatmakursun/rain-forecasting-with-artificial-neural-network#EDA)
+
+- [link](https://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1/)
