@@ -24,6 +24,6 @@ O dataset se encontra disponível neste [link](https://drive.google.com/drive/fo
 
 ## References
 
-- [link](https://www.kaggle.com/fatmakursun/rain-forecasting-with-artificial-neural-network#EDA)
+- [Rain Forecasting with Artificial Neural Network](https://www.kaggle.com/fatmakursun/rain-forecasting-with-artificial-neural-network#EDA)
 
-- [link](https://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1/)
+- [Using Machine Learning to Predict the Weather: Part 1](https://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1/)
